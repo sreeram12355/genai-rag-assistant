@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by going to Settings > Security and selecting Reset Password."
+  },
+  {
+    "title": "Account Creation",
+    "content": "Users can create an account by clicking the Sign Up button on the homepage and filling in their details."
+  },
+  {
+    "title": "Delete Account",
+    "content": "Users can permanently delete their account by navigating to Settings > Account > Delete Account."
+  },
+  {
+    "title": "Update Email",
+    "content": "Users can update their email address from Settings > Profile > Email."
+  },
+  {
+    "title": "Two Factor Authentication",
+    "content": "Users can enable two-factor authentication from Settings > Security > Two Factor Authentication."
+  },
+  {
+    "title": "Profile Editing",
+    "content": "Users can edit their profile information such as name and profile picture from the profile page."
+  },
+  {
+    "title": "Password Requirements",
+    "content": "Passwords must contain at least 8 characters including one number and one special character."
+  },
+  {
+    "title": "Login Troubleshooting",
+    "content": "If users cannot log in, they should try resetting their password or contacting support."
+  },
+  {
+    "title": "Notification Settings",
+    "content": "Users can control notification preferences from Settings > Notifications."
+  },
+  {
+    "title": "Support Contact",
+    "content": "Users can contact customer support through the Help Center in the application."
+  }
+]
